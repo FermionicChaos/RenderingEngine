@@ -1,0 +1,19 @@
+﻿  Game.cpp
+c:\users\user\documents\visual studio 2015\projects\renderingengine\renderingengine\Camera.h(26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Game.cpp(65): warning C4244: '=': conversion from 'GLuint' to 'GLfloat', possible loss of data
+Game.cpp(66): warning C4244: '=': conversion from 'GLuint' to 'GLfloat', possible loss of data
+Game.cpp(164): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+Game.cpp(165): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+Game.cpp(176): warning C4244: '=': conversion from 'GLuint' to 'GLfloat', possible loss of data
+Game.cpp(177): warning C4244: '=': conversion from 'GLuint' to 'GLfloat', possible loss of data
+  Generating code
+  17 of 596 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RenderingEngine.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\RenderingEngine\x64\Release\RenderingEngine.exe
+  RenderingEngine.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\RenderingEngine\x64\Release\RenderingEngine.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\User\Documents\Visual Studio 2015\Projects\RenderingEngine\x64\Release\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.

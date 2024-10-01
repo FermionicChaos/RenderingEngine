@@ -1,0 +1,100 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RenderingEngine", "RenderingEngine\RenderingEngine.vcxproj", "{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Multithreaded|Any CPU = Debug Multithreaded|Any CPU
+		Debug Multithreaded|Mixed Platforms = Debug Multithreaded|Mixed Platforms
+		Debug Multithreaded|Win32 = Debug Multithreaded|Win32
+		Debug Multithreaded|x64 = Debug Multithreaded|x64
+		Debug Multithreaded|x86 = Debug Multithreaded|x86
+		Debug Singlethreaded|Any CPU = Debug Singlethreaded|Any CPU
+		Debug Singlethreaded|Mixed Platforms = Debug Singlethreaded|Mixed Platforms
+		Debug Singlethreaded|Win32 = Debug Singlethreaded|Win32
+		Debug Singlethreaded|x64 = Debug Singlethreaded|x64
+		Debug Singlethreaded|x86 = Debug Singlethreaded|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Emscripten|Any CPU = Emscripten|Any CPU
+		Emscripten|Mixed Platforms = Emscripten|Mixed Platforms
+		Emscripten|Win32 = Emscripten|Win32
+		Emscripten|x64 = Emscripten|x64
+		Emscripten|x86 = Emscripten|x86
+		Release Multithreaded|Any CPU = Release Multithreaded|Any CPU
+		Release Multithreaded|Mixed Platforms = Release Multithreaded|Mixed Platforms
+		Release Multithreaded|Win32 = Release Multithreaded|Win32
+		Release Multithreaded|x64 = Release Multithreaded|x64
+		Release Multithreaded|x86 = Release Multithreaded|x86
+		Release Singlethreaded|Any CPU = Release Singlethreaded|Any CPU
+		Release Singlethreaded|Mixed Platforms = Release Singlethreaded|Mixed Platforms
+		Release Singlethreaded|Win32 = Release Singlethreaded|Win32
+		Release Singlethreaded|x64 = Release Singlethreaded|x64
+		Release Singlethreaded|x86 = Release Singlethreaded|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Template|Any CPU = Template|Any CPU
+		Template|Mixed Platforms = Template|Mixed Platforms
+		Template|Win32 = Template|Win32
+		Template|x64 = Template|x64
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug Multithreaded|Any CPU.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug Multithreaded|Mixed Platforms.ActiveCfg = Debug|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug Multithreaded|Win32.ActiveCfg = Debug|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug Multithreaded|x64.ActiveCfg = Debug|x64
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug Multithreaded|x86.ActiveCfg = Debug|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug Singlethreaded|Any CPU.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug Singlethreaded|Mixed Platforms.ActiveCfg = Debug|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug Singlethreaded|Win32.ActiveCfg = Debug|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug Singlethreaded|x64.ActiveCfg = Debug|x64
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug Singlethreaded|x86.ActiveCfg = Debug|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug|x64.ActiveCfg = Debug|x64
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug|x64.Build.0 = Debug|x64
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug|x86.ActiveCfg = Debug|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Debug|x86.Build.0 = Debug|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Emscripten|Any CPU.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Emscripten|Mixed Platforms.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Emscripten|Win32.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Emscripten|x64.ActiveCfg = Release|x64
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Emscripten|x86.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release Multithreaded|Any CPU.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release Multithreaded|Mixed Platforms.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release Multithreaded|Win32.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release Multithreaded|x64.ActiveCfg = Release|x64
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release Multithreaded|x86.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release Singlethreaded|Any CPU.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release Singlethreaded|Mixed Platforms.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release Singlethreaded|Win32.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release Singlethreaded|x64.ActiveCfg = Release|x64
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release Singlethreaded|x86.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release|Any CPU.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release|Win32.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release|x64.ActiveCfg = Release|x64
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release|x64.Build.0 = Release|x64
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release|x86.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Release|x86.Build.0 = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Template|Any CPU.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Template|Mixed Platforms.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Template|Win32.ActiveCfg = Release|Win32
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Template|x64.ActiveCfg = Release|x64
+		{D30159A9-933B-4EBF-B4DD-3257EB0D0ACD}.Template|x86.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

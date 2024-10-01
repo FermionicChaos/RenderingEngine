@@ -1,0 +1,10 @@
+To render, an object needs a shader and loaded data.
+
+
+Shader Program
+VAO
+VBO
+EBO
+Texture
+
+At the time of this engine, it is now equiped for fullscreen and dynamic cursor control. user input is more flexible now.
